@@ -1,12 +1,5 @@
 # ICC_World_CUP_2023_Prediction
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>ICC World Cup 2023 Winner Prediction</title>
-</head>
-<body>
-
 <h1>Introduction</h1>
 <p>This project aims to predict the ICC World Cup 2023 winner by analyzing historical match data. Utilizing machine learning techniques, particularly the Random Forest model, we seek to identify patterns that contribute to a team's success and apply these insights to forecast the outcome of the 2023 cricket world cup.</p>
 
